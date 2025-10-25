@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "arcade-text": "github:microsoft/arcade-text#v1.3.0",
-        "sprite-scaling": "*"
+        "sprite-scaling": "*",
+        "zombie Apocalypse": "github:naitsab33/zombie-apocalypse#pr-4"
     },
     "files": [
         "main.blocks",
